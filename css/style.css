@@ -1,12 +1,11 @@
 .title{
     color: black;
+    display: inline-block;
 }
 .subtitle{
     color:rgba(37, 35, 35, 0.893);
 }
-.subtitle2{
-    color: rgba(37, 35, 35, 0.893);
-}
-.subtitle3{
-    color: rgba(37, 35, 35, 0.893);
+.editorial{
+    color: white;
+    background-color: rgba(0, 183, 255, 0.671);
 }
