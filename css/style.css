@@ -8,4 +8,7 @@
 .editorial{
     color: white;
     background-color: rgba(0, 183, 255, 0.671);
+    border-radius: 40px;
+    padding-top: 5px;
+    border-bottom-left-radius: 30px;
 }
